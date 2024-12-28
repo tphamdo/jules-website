@@ -5,41 +5,13 @@ import shoppingCartImage from './assets/images/shopping-cart.png';
 
 const projects = [
   {
-    title: 'Blog Api',
-    descr: 'A Simple Blog Site',
+    title: 'Jollibee',
+    descr: 'Spaghetti Campaign',
     name: 'blogapi',
     videoSrc:
       'https://d3tc3tvjs941dn.cloudfront.net/projects/blogapi/blogapi.mp4',
     img: blogApiImage,
     codeLink: 'https://github.com/tphamdo/blog-api',
-  },
-  {
-    title: 'File Uploader',
-    descr: 'A Google Drive Clone',
-    name: 'fileuploader',
-    videoSrc:
-      'https://d3tc3tvjs941dn.cloudfront.net/projects/fileuploader/fileuploader.mp4',
-    img: fileUploaderImage,
-    codeLink: 'https://github.com/tphamdo/file-uploader',
-  },
-  {
-    title: 'Members Only',
-    descr: 'An Exclusive Club',
-    name: 'membersonly',
-    videoSrc:
-      'https://d3tc3tvjs941dn.cloudfront.net/projects/membersonly/members-only.mp4',
-    img: membersOnlyImage,
-    codeLink: 'https://github.com/tphamdo/members-only',
-  },
-  {
-    title: 'Pure Threads',
-    descr: 'A Shopping Cart',
-    name: 'shoppingcart',
-    videoSrc:
-      'https://d3tc3tvjs941dn.cloudfront.net/projects/shoppingcart/shopping-cart-cropped.webm',
-    img: shoppingCartImage,
-    codeLink: 'https://github.com/tphamdo/shopping-cart',
-    siteLink: 'https://shopping-cart-ecru-five.vercel.app/',
   },
 ];
 

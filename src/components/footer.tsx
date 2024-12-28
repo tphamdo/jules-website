@@ -1,13 +1,10 @@
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa';
 
 function Footer() {
   return (
     <div className="mt-20 mb-5">
       <div className="mx-auto w-fit p-2 flex gap-8">
-        <a href="https://github.com/tphamdo" target="_blank">
-          <FaGithub className="rotating-icon" size={30} />
-        </a>
-        <a href="https://www.linkedin.com/in/tphamdo" target="_blank">
+        <a href="https://www.linkedin.com/in/hellojuliaefern/" target="_blank">
           <FaLinkedin className="rotating-icon" size={30} />
         </a>
       </div>

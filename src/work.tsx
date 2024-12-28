@@ -9,7 +9,7 @@ function Work() {
       <Navbar />
 
       <div className="mt-20 slide delay01">
-        <h1 className="text-4xl font-semibold">Full Stack Developer.</h1>
+        <h1 className="text-4xl font-semibold">Influencer Relations Lead</h1>
       </div>
 
       <div className="flex flex-wrap justify-around gap-y-12 gap-x-8 slide delay02 mt-24 h-fit">
@@ -36,18 +36,7 @@ function Work() {
 
       <div className="slide delay02 max-w-xl mx-auto mt-20 text-lg">
         <p className="text-neutral-700 leading-relaxed">
-          I'm Trueman, a Software Engineer based in Maryland. After working on
-          Android for a few years, I decided I wanted to move my career to Web
-          Development. Recently, I've completed{' '}
-          <a
-            className="hover:underline"
-            target="_blank"
-            href="https://www.theodinproject.com/"
-          >
-            The Odin Project
-          </a>
-          , an open source full stack course, where I learned HTML, CSS,
-          Typescript, React, Nodejs, PostgreSQL, Prisma, and much more.
+          I'm Julia, a Influencer Relations Lead based in Manila, Phillipines.
         </p>
         <Link to="/about" className="font-medium mt-5 block">
           More about me
